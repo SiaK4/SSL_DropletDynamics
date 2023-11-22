@@ -7,3 +7,7 @@ To install required python packages.
 `pip install -r requirements.txt`  
 ### Dataset
 ---
+Samples of dataset for reduced size data and full size data are available in the Dataset folder.  
+### Data Preparation, Training, and Inference
+---
+Follow the instruction in **SSL_droplet.ipynb**
