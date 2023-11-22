@@ -11,4 +11,4 @@ Samples of dataset for reduced size data and full size data are available in the
 ### Data Preparation, Training, and Inference
 ---
 Follow the instruction in **SSL_droplet.ipynb**  
-Checkpoints for training with reduced dataset and full dataset are included in Trained_checkpoints folder.
+Checkpoints for training with reduced dataset and full dataset are included in Trained_Checkpoints folder.
